@@ -1,1 +1,1 @@
-CSI_FILES=['secret.yaml','storage-class.yaml']
+CSI_FILES=['secret.yaml','storage-class.yaml','pvc.yaml']
